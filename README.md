@@ -1,7 +1,4 @@
 ### 👋 Hi, I'm Juan  <a href="https://www.linkedin.com/in/juancampello/"><img src="icons/linkedin.svg" height="25" align="top" alt="LinkedIn" /></a>
-
-I'm a **R&D Engineer in Ambient Intelligence for Active and Healthy Ageing** at the [AmI4AHA](https://web.ua.es/ami4aha) research group (Universidad de Alicante), where I design and build home monitoring systems for the early detection of frailty in older adults: mobile apps, IoT sensors, cloud infrastructure and dashboards for data analysis. **Biomedical Engineer · MSc Robotics & Automation.**
-
 <p>
   <img src="icons/raspberrypi.svg?v=4" height="44" alt="raspberrypi" />
   <img src="icons/zigbee.svg?v=4" height="44" alt="zigbee" />
